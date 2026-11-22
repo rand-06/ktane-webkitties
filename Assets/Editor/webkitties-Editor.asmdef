@@ -1,0 +1,10 @@
+{
+  "name": "webkitties-Editor",
+  "references": [
+    "webkitties"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
